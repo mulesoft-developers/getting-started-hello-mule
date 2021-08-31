@@ -39,7 +39,7 @@ First you have to download MuleSoft's IDE: Anypoint Studio. After that, you can 
 
 2. Clone this repository.
 
-3. In Anypoint Studio, select `File > Import > Anypoint Studio > Anypoint Studio project from File System` and click Next.
+3. In Anypoint Studio, select `File` > `Import` > `Anypoint Studio` > `Anypoint Studio project from File System` and click Next.
 
 4. Select the cloned repository in the Project Root and click Finish.
 
