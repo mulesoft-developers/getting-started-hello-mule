@@ -8,7 +8,6 @@
 <h4 align="center">
 	<a href="#overview">Overview</a> |
 	<a href="#installation-instructions">Install Me</a> |
-	<a href="#faqs">FAQs</a> |
 	<a href="#contributing">Contribute</a>
 </h4>
 	
