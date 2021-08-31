@@ -41,7 +41,9 @@ First you have to download MuleSoft's IDE: Anypoint Studio. After that, you can 
 
 3. In Anypoint Studio, select `File` > `Import` > `Anypoint Studio` > `Anypoint Studio project from File System` and click Next.
 
-4. Select the cloned repository in the Project Root and click Finish.
+4. Select the cloned repository in the Project Root and make sure to **uncheck** the `Copy project into workspace` option.
+
+5. Click on Finish.
 
 ## Contributing
 
