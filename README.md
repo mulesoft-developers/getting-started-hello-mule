@@ -17,7 +17,7 @@ This tutorial will walk you through step by step on how to develop, test, and de
 
 ## Tutorial and Video
 
-For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos)
+For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/hello-mule/)
 
 For a video of the tutorial go [here](https://youtu.be/5Xd5B_twt9w).
 
