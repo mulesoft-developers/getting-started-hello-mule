@@ -12,7 +12,7 @@
 </h4>
 	
 <h3 align="center">
-This tutorial will walk you through step by step on how to develop, test, and deploy your first Mule Application in just a few minutes!<br><br>
+This tutorial will walk you through step by step how to develop, test, and deploy your first Mule Application in just a few minutes!<br><br>
 </h3>
 
 ## Tutorial and Video
